@@ -69,6 +69,7 @@ class MainActivity : AppCompatActivity() {
             alert.setNegativeButton("취소", null)
 
 
+
             alert.show()
 
 
